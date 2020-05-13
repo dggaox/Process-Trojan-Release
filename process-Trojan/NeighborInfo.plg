@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: NeighborInfo - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP34.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/NeighborInfo.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\VC\练习\白领就业指南\获取局域网中计算机信息\做好的东西\NeighborInfo\NeighborInfoDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP34.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP35.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/NeighborInfo.pdb" /debug /machine:I386 /out:"Debug/NeighborInfo.exe" /pdbtype:sept 
+".\Debug\MessSocket.obj"
+".\Debug\NeighborInfo.obj"
+".\Debug\NeighborInfoDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\NeighborInfo.res"
+".\KERNEL32.LIB"
+".\PSAPI.LIB"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP35.tmp"
+<h3>Output Window</h3>
+Compiling...
+NeighborInfoDlg.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+NeighborInfo.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
